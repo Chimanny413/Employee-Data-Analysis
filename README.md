@@ -7,8 +7,8 @@ This project involved designing a SQL database to analyze historical employee da
 
 ### Tools and Skills
 - SQL (PostgreSQL)
-- Data Modeling ([QuickDBD] for ERD)
-- Data Engineering (ETL processes) dbdiagram.io
+- Data Modeling (dbdiagram.io for ERD)
+- Data Engineering (ETL processes) 
 - Data Analysis (SQL queries)
 
 ### Key Features
